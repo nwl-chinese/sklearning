@@ -1,5 +1,7 @@
 Machine Learning and Transportation
+
 Project 1:Diabetes Prediction Based on Machine Learning
+
 1.background
     One in seven Adults in the United States now has diabetes, according to the Centers for Disease Control and Prevention. But by 2050, that share will have risen rapidly to as much as a third. We have a diabetes data set in the UCL Machine learning database, and we hope to use this data set to understand how machine learning can help us predict diabetes.Data from  https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/diabetes.csv
 2. Method
