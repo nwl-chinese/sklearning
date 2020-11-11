@@ -8,8 +8,8 @@ Project 1:Diabetes Prediction Based on Machine Learning
 
 2. Method
  
- （1）Data readng
+ (1)Data readng
      First,we should import some packages,Including pandas,numpy and matplotlib.pyplot. we used pd.read_csv() to read datasets, and we used print(data.columns) and data.shape to confirm data information,and we used data.head() to check whether the data was read correctly.  We supposed X as the feature columns and y as the target variable, and we set the test_size to be 0.2 that meant 80% of the data were used to train and 20% of the data were used to test.
 
-(2) Method makes
+ (2)Method makes
     We used four models of supervised learning to predict the data, including KNN, LOGISTIC regression, decision tree and random forest. These four models are used to train data and forecast data, and the accuracy of each model is calculated. In the decision tree model we get a better one by changing the depth of the tree.
