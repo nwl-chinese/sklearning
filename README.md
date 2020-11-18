@@ -15,8 +15,8 @@ Project 1:Diabetes Prediction Based on Machine Learning
     We used five models of supervised learning to predict the data, including KNN, LOGISTIC regression, Decision tree ，Random forest and GradientBoostingClassifier. These five models are used to train data and forecast data, and the accuracy of each model is calculated. In addition, after adjusting the cords, we find in the KNN model test rate is also improved in order to solve the fitting problem in the model, in the decision tree and random forest model we also by limiting the depth of the tree made training set and testing set accuracy as the tree depth change line chart, found that can be solved by limiting the depth of the tree can be fitting problem and improve the accuracy of the test set.When printing the importance of features in the decision tree, blood sugar was found to be the most important feature affecting diabetes。
     
 3.Result
-
-    By comparing the test set accuracy of various models in the default state, it is found that the random forest has a high accuracy rate, and the accuracy of other models is also improved after reference adjustment. However, the non-uniformity of standards is not good for comparison。
+   
+   By comparing the test set accuracy of various models in the default state, it is found that the random forest has a high accuracy rate.
  
 
 4.Thinking
